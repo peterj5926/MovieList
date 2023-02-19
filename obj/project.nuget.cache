@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ckkK+PscNEk8sHl7kqWSdi5OD+vA2nPP6jRfEjGAtdyN1k/0m63sZeENAOjRi2MtkzOKkg/thybkqPIwqfoOGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\phill\\source\\repos\\MovieLibrary\\MovieLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phill\\.nuget\\packages\\betterconsoletables\\1.1.3\\betterconsoletables.1.1.3.nupkg.sha512",
+    "C:\\Users\\phill\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\phill\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\phill\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\phill\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\phill\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
